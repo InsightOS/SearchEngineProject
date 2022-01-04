@@ -159,4 +159,4 @@ async def search(ctx):
     await ctx.respond(embed=sample, view=dropdowns)
 
 
-client.run('OTA5Mzg5NjUzMzk4OTQxNzI2.YZDlHQ.LwMf16wqDCtXskHeT7Q3eZRA24c')
+client.run('BOT_TOKEN_HERE')
